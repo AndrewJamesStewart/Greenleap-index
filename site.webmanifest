@@ -1,0 +1,13 @@
+{
+  "name": "GreenLeap",
+  "short_name": "GreenLeap",
+  "description": "ESG and carbon reporting for the mid-market. Measure. Report. Transform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#234434",
+  "theme_color": "#234434",
+  "icons": [
+    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
